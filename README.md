@@ -63,6 +63,30 @@ Visit [Agentic AI product developemnt](https://www.continuumtracker.com/produkto
 ### Synthetised customer problems understanding
 Run deep research analysis to synthesise market and customer data, uncovering the most critical user pain points and opportunities.
 
+**Auto evidence form customers analysis**
+<picture>
+  <source srcset="./assets/version control 1.jpg">
+  <img src="./assets/version control 1.jpg" alt="Continuum Tracker Pain Points">
+</picture>
+
+**Auto market evidence analysis**
+<picture>
+  <source srcset="./assets/version control 2.jpg">
+  <img src="./assets/version control 2.jpg" alt="Continuum Tracker Pain Points">
+</picture>
+
+**Auto customer journey analysis and its enhancements**
+<picture>
+  <source srcset="./assets/version control 3.jpg">
+  <img src="./assets/version control 3.jpg" alt="Continuum Tracker Pain Points">
+</picture>
+
+**Auto code enhancements analysis based on new customer journey**
+<picture>
+  <source srcset="./assets/version control 4.jpg">
+  <img src="./assets/version control 4.jpg" alt="Continuum Tracker Pain Points">
+</picture>
+
 ## Product Growth Hacking
 Use automatically synthesised customer and market insights to test value propositions through rapid prototyping.
 
