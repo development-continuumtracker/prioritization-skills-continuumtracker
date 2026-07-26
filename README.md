@@ -38,7 +38,7 @@ Point Claude Code at your [Continuum Tracker](https://www.continuumtracker.com) 
 | 📈 | **Auditing decisions** | Every prototype change or decision can bre audited and used for futute learning. |
 
 ---
-## Product Strategy
+## Agentic product development
 Continuum Tracker continuously manages your product context, prioritising customer pain points using real customer feedback and validating them against market insights. Instead of synthesising context, founders and product teams can focus on one question: Which opportunities will have the greatest impact? 
 
 Visit [Agentic AI product developemnt](https://www.continuumtracker.com/produktova-prioritizace-s-agentni-ai/) for more information. 
@@ -93,15 +93,37 @@ Use automatically synthesised customer and market insights to test value proposi
 ### Building prototypes
 Turn customer pain points into prototypes in minutes and validate their value proposition through testing.
 
+**Auto dashboard for managing prototype new and old customer journey**
+<picture>
+  <source srcset="./assets/prototype 1.jpg">
+  <img src="./assets/prototype 1.jpg" alt="Continuum Tracker Pain Points">
+</picture>
+
+**Auto visual onboarding to suggested enhancements to the customer journey**
+<picture>
+  <source srcset="./assets/prototype 2.jpg">
+  <img src="./assets/prototype 2.jpg" alt="Continuum Tracker Pain Points">
+</picture>
+
 ### Auditing prototes
 Track every prototype iteration with audit trails, enabling teams to learn from changes, detect bias, and understand which solutions create the most value.
+
+**Auto auditing for changes, plus manual entry if needed**
+<picture>
+  <source srcset="./assets/prototype 3.jpg">
+  <img src="./assets/prototype 3.jpg" alt="Continuum Tracker Pain Points">
+</picture>
 
 ### Running product AI agents in parallel
 Move from sequential product development to **parallel exploration**. AI agents build and test competing solutions simultaneously, allowing teams to discover faster which customer pain points, value propositions, and products have the highest potential.
 
 This workflow is designed for **founders who need to pivot quickly, explore new opportunities, and move faster** than traditional product development allows.
 
-
+**Run multiple product development efforts in parallel**
+<picture>
+  <source srcset="./assets/agents.jpg">
+  <img src="./assets/agents.jpg" alt="Continuum Tracker Pain Points">
+</picture>
 
 ## Setup
 1. Get an API key from the web app at **`/settings/access`** (Bearer key with the `ct_` prefix).
