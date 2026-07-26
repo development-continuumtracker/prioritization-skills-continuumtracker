@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.continuumtracker.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo.png">
-      <img src="./assets/logo.svg" alt="Continuum Tracker" width="300">
+      <source srcset="./assets/logo.png">
+      <img src="./assets/logo.png" alt="Continuum Tracker" width="300">
     </picture>
   </a>
 </p>
@@ -22,6 +22,11 @@
 
 Point Claude Code at your [Continuum Tracker](https://www.continuumtracker.com) account and it reads your products, your evidence-ranked customer pain points and the market research behind each one — then turns the winner into a clickable prototype with an audit trail of *easoning and changes*.
 
+<picture>
+      <source srcset="./assets/priorities.jpg">
+      <img src="./assets/priorities.jpg" alt="Continuum Tracker" width="300">
+    </picture>
+    
 ---
 
 ## What you get
