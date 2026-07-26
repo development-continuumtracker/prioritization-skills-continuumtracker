@@ -41,3 +41,65 @@ Point Claude Code at your [Continuum Tracker](https://www.continuumtracker.com) 
 | 📈 | **Auditing decisions** | Every prototype change or decision can bre audited and used for futute learning. |
 
 ---
+
+## Setup
+1. Get an API key from the web app at **`/settings/access`** (Bearer key with the `ct_` prefix).
+
+2. Provide it in one of two ways:
+   - Set the environment variable:
+     ```bash
+     export CONTINUUM_API_KEY=ct_...
+     ```
+   - Or copy `.env.example` to `.env` in your working directory and add your API key.
+   - If neither is configured, the skill will prompt you to paste the key.
+
+> **Security:** Your API key is never stored, echoed, or committed by the skill.
+
+## Usage
+
+Just ask, in natural language:
+
+- *"What are my priorities?"* / *"What should I build next?"*
+- *"Show me my top pain points and how the market solves them."*
+- *"Why is ‹pain point› a problem? Show me the evidence."*
+- *"Prototype the ‹pain point› signal."*
+- *"Continue the ‹pain point› prototype."*
+
+Or invoke it explicitly with `/ct`.
+
+## Requirements
+
+| | Needed for |
+|---|---|
+| **Python 3.8+** *or* **Node 18+** | Running the API helper. No third-party packages either way. |
+| **Node 18+** | Additionally, to run a generated prototype (Vite + React). |
+| **Claude Code** | The host. |
+
+## Scope and limits
+
+- **Read-only.** No data is created, updated or archived in Continuum Tracker. Use [integrations](https://www.continuumtracker.com/integrations/) for that data ingestion.
+- **Prototypes never touch your product.** They are placed in `Product management/` folder in root directory, which is added to `.gitignore` on creation.
+- There are enforced rate-limits on query for safety purposes. For more visit **`/settings/access`** inside the [continuumtracker.com](https://www.continuumtracker.com) app.
+
+## License
+
+**MIT** — see [LICENSE](./LICENSE).
+
+If you build on this, fork it, or ship something derived from it, please **reference [continuumtracker.com](https://www.continuumtracker.com)**. Attribution isn't a license condition beyond the MIT notice — it's a polite request from us.
+
+## Acknowledgments
+
+- **Powered by** [Continuum Tracker](https://www.continuumtracker.com)
+- **Built for** [Claude Code](https://github.com/anthropics/claude-code).
+- **Inspired by** thousands of products that nobody used, and the endless hours their creators spent building them. 
+
+
+
+<p align="center">
+  <a href="https://www.continuumtracker.com">
+    <picture>
+      <source srcset="./assets/logo.png">
+      <img src="./assets/logo.png" alt="Continuum Tracker" width="300">
+    </picture>
+  </a>
+</p>
