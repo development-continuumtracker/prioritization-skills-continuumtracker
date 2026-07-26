@@ -23,13 +23,13 @@
 Point Claude Code at your [Continuum Tracker](https://www.continuumtracker.com) account and it reads your products, your evidence-ranked customer pain points and the market research behind each one — then turns the winner into a clickable prototype with an audit trail of *easoning and changes*.
 
 <picture>
-      <source srcset="./assets/priorities.jpg">
-      <img src="./assets/priorities.jpg" alt="Continuum Tracker">
-    </picture>
+  <source srcset="./assets/priorities.jpg">
+  <img src="./assets/priorities.jpg" alt="Continuum Tracker Prioritization">
+</picture>
     
 ---
 
-## What you get
+## What You Get
 
 | | Capability | What it means in practice |
 |---|---|---|
@@ -41,6 +41,27 @@ Point Claude Code at your [Continuum Tracker](https://www.continuumtracker.com) 
 | 📈 | **Auditing decisions** | Every prototype change or decision can bre audited and used for futute learning. |
 
 ---
+## Product Strategy
+
+### Prioritization "What to built next"
+
+### Synthetised customer problems understanding
+<picture>
+  <source srcset="./assets/painpoints.jpg">
+  <img src="./assets/painpoints.jpg" alt="Continuum Tracker Pain Points">
+</picture>
+
+## Product Growth Hacking
+
+### Building prototypes
+
+
+### Auditing prototes
+
+### Running product AI agents in parallel 
+
+
+
 
 ## Setup
 1. Get an API key from the web app at **`/settings/access`** (Bearer key with the `ct_` prefix).
