@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.continuumtracker.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo.png">
       <img src="./assets/logo.svg" alt="Continuum Tracker" width="300">
     </picture>
   </a>
