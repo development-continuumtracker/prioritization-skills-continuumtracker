@@ -22,14 +22,11 @@
 
 Point Claude Code at your [Continuum Tracker](https://www.continuumtracker.com) account and it reads your products, your evidence-ranked customer pain points and the market research behind each one — then turns the winner into a clickable prototype with an audit trail of *easoning and changes*.
 
-<picture>
-  <source srcset="./assets/priorities.jpg">
-  <img src="./assets/priorities.jpg" alt="Continuum Tracker Prioritization">
-</picture>
+
     
 ---
 
-## What You Get
+## Key features
 
 | | Capability | What it means in practice |
 |---|---|---|
@@ -42,24 +39,43 @@ Point Claude Code at your [Continuum Tracker](https://www.continuumtracker.com) 
 
 ---
 ## Product Strategy
+Continuum Tracker continuously manages your product context, prioritising customer pain points using real customer feedback and validating them against market insights. Instead of synthesising context, founders and product teams can focus on one question: Which opportunities will have the greatest impact? 
+
+Visit [Agentic AI product developemnt](https://www.continuumtracker.com/produktova-prioritizace-s-agentni-ai/) for more information. 
 
 ### Prioritization "What to built next"
+> Ask "What to uilt next?"
+> and the skills deliveres prioritized list of your products and potential custoemr pain poitns to solve.
+>
 
-### Synthetised customer problems understanding
+**Products list**
+<picture>
+  <source srcset="./assets/priorities.jpg">
+  <img src="./assets/priorities.jpg" alt="Continuum Tracker Prioritization">
+</picture
+
+**Customer pain points list per one product**
 <picture>
   <source srcset="./assets/painpoints.jpg">
   <img src="./assets/painpoints.jpg" alt="Continuum Tracker Pain Points">
 </picture>
 
+### Synthetised customer problems understanding
+Run deep research analysis to synthesise market and customer data, uncovering the most critical user pain points and opportunities.
+
 ## Product Growth Hacking
+Use automatically synthesised customer and market insights to test value propositions through rapid prototyping.
 
 ### Building prototypes
-
+Turn customer pain points into prototypes in minutes and validate their value proposition through testing.
 
 ### Auditing prototes
+Track every prototype iteration with audit trails, enabling teams to learn from changes, detect bias, and understand which solutions create the most value.
 
-### Running product AI agents in parallel 
+### Running product AI agents in parallel
+Move from sequential product development to **parallel exploration**. AI agents build and test competing solutions simultaneously, allowing teams to discover faster which customer pain points, value propositions, and products have the highest potential.
 
+This workflow is designed for **founders who need to pivot quickly, explore new opportunities, and move faster** than traditional product development allows.
 
 
 
