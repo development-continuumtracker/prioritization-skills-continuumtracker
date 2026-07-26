@@ -176,8 +176,7 @@ If you build on this, fork it, or ship something derived from it, please **refer
 - **Built for** [Claude Code](https://github.com/anthropics/claude-code).
 - **Inspired by** thousands of products that nobody used, and the endless hours their creators spent building them. 
 
-
-
+<br>
 <p align="center">
   <a href="https://www.continuumtracker.com">
     <picture>
