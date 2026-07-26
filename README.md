@@ -24,7 +24,7 @@ Point Claude Code at your [Continuum Tracker](https://www.continuumtracker.com) 
 
 <picture>
       <source srcset="./assets/priorities.jpg">
-      <img src="./assets/priorities.jpg" alt="Continuum Tracker" width="300">
+      <img src="./assets/priorities.jpg" alt="Continuum Tracker">
     </picture>
     
 ---
