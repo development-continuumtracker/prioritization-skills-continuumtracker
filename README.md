@@ -120,6 +120,15 @@ This workflow is designed for **founders who need to pivot quickly, explore new 
   <img src="./assets/agents.jpg" alt="Continuum Tracker agentic product management">
 </picture>
 
+## Install
+
+In Claude Code:
+
+```bash
+/plugin marketplace add development-continuumtracker/prioritization-skills-continuumtracker
+/plugin install continuum-tracker@continuumtracker
+```
+
 ## Setup
 1. Get an API key from the web app at **`/settings/access`** (Bearer key with the `ct_` prefix).
 
@@ -143,7 +152,7 @@ Just ask, in natural language:
 - *"Prototype the ‹pain point› signal."*
 - *"Continue the ‹pain point› prototype."*
 
-Or invoke it explicitly with `/ct`.
+Or invoke it explicitly with `/continuum-tracker`.
 
 ## Requirements
 

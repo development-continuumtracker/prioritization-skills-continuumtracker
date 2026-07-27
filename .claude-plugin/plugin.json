@@ -1,0 +1,25 @@
+{
+  "name": "continuum-tracker",
+  "version": "0.1.0",
+  "description": "Continuum Tracker continuously manages your product context, prioritising customer pain points using real customer feedback and validating them against market insights. Instead of synthesising context, founders and product teams can focus on one question: Which opportunities will have the greatest impact?",
+  "author": {
+    "name": "Continuum Tracker",
+    "url": "https://www.continuumtracker.com"
+  },
+  "homepage": "https://www.continuumtracker.com",
+  "repository": "https://github.com/development-continuumtracker/prioritization-skills-continuumtracker",
+  "license": "MIT",
+  "keywords": [
+        "product-management",
+        "prioritization",
+        "product-building",
+        "founders-product-management",
+        "agentic-product-management",
+        "product-development",
+        "customer-feedback",
+        "market-research",
+        "product-discovery",
+        "prototyping",
+        "auditing-product-developement"
+  ]
+}

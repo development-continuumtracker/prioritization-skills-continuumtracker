@@ -1,0 +1,84 @@
+/* Continuum Tracker design tokens — restated from the real app's globals.css.
+   Light theme only (the app's real design). Values from the design brief. */
+:root {
+  --radius: 8px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --radius-2xl: 16px;
+
+  --background: #F7F6FF;      /* faint lavender page bg */
+  --foreground: #3E3255;      /* deep plum-grey text */
+  --card: #FFFFFF;
+  --card-foreground: #3E3255;
+
+  --primary: #5046E5;         /* indigo brand */
+  --primary-foreground: #F8FAFC;
+  --primary-muted-50: rgba(80, 70, 229, 0.5);
+  --primary-muted-30: rgba(80, 70, 229, 0.3);
+  --primary-soft: rgba(80, 70, 229, 0.08);
+
+  --secondary: #F1F5F9;
+  --secondary-foreground: #5046E5;
+  --muted: #F4F5FB;
+  --muted-foreground: #64748B;
+  --accent: #D7D8FF;          /* pale periwinkle */
+  --accent-foreground: #292478;
+
+  --brand-light-blue: #8186FF;
+  --brand-dark-blue: #292478;
+
+  --success: #059669;         /* emerald */
+  --success-soft: #ECFDF5;
+  --warning: #D97706;         /* amber */
+  --warning-soft: #FFFBEB;
+  --destructive: #DC2626;
+  --destructive-soft: #FEF2F2;
+
+  --border: #E5E5E5;
+  --input: #E5E5E5;
+  --ring: #5046E5;
+
+  --shadow-card: 0 2px 8px rgba(28, 26, 78, .04), 0 12px 30px rgba(28, 26, 78, .06);
+  --shadow-soft: 0 2px 16px rgba(62, 50, 85, 0.05);
+  --shadow-card-hover: 0 6px 16px rgba(28, 26, 78, .08), 0 20px 44px rgba(28, 26, 78, .12);
+
+  /* Welcome / login palette — shared across every prototype's intro screen.
+     Base text + titles = #3E3255; hero H1 = #1c1a4e; bold accent = #292478. */
+  --welcome-title: #3E3255;
+  --welcome-text: #3E3255;
+  --welcome-accent: #292478;
+  --welcome-hero: #1c1a4e;
+  --logo-mark: #8186FF;
+  --logo-word: #0F172A;
+
+  /* Login gradient — the app's real .login-glow (lighter top-left, richer bottom-right). */
+  --welcome-glow:
+    radial-gradient(48% 70% at 88% 92%, rgba(190, 194, 255, .45) 0%, rgba(238, 242, 255, 0) 60%),
+    radial-gradient(42% 60% at 6% 4%, rgba(238, 242, 255, .9) 0%, rgba(238, 242, 255, 0) 55%),
+    linear-gradient(170deg, #f2f3ff 0%, #ffffff 45%, #f4f5ff 100%);
+
+  --font-sans: "Geist", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 { margin: 0; font-weight: 600; color: var(--foreground); }
+h1 { font-size: 30px; line-height: 1.2; }
+h2 { font-size: 20px; }
+h3 { font-size: 18px; }
+a { color: var(--primary); text-decoration: none; }
+button { font-family: inherit; }

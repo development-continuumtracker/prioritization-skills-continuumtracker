@@ -1,0 +1,23 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Throwaway prototypes built by the skill
+Product management/
+
+# Local Claude Code project config (the plugin ships from skills/, not here)
+.claude/
+
+# Local backup of the git dir — never commit
+.git copy/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.local
